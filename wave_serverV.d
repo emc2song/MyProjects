@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-#kkkk22222
->>>>>>> 51cae29a97edceb52babc742679fbafcccc1f671
 #
 #         Wave ServerV Configuration File 
 #
