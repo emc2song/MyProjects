@@ -1,4 +1,3 @@
-#kkkk
 #
 #         Wave ServerV Configuration File 
 #
