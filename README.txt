@@ -1,11 +1,8 @@
 OVERVIEW
-ksjfa
-dgkldjfg
-44444444444444444444444444444
+1111111111111111111111
 Earthworm is a free open source waveform and automatic Earthquake processing software package written primarily in the C language.
 ---------
-9999999999999999
-555555555555
+22222222222222222222
 77777777777
 88888888888888888899999999999
 Originally developed by the United States Geological Survey (USGS), Earthworm now has modules contributed by users all over the world.
