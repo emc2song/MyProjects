@@ -1,15 +1,4 @@
-11111122222223333333333333444444444444yyyyyyyyyyyyyyy
-ttttttttttttttttttt
-77777777
-88888999999900005555555555556666677777777888888999999990000000-----
 OVERVIEW
-Merge TEST---------4
-pppppppppppppppppppppppppppppppp
-Merge TEST---------3
-hgakdglkjd
-999999
-000000
-iuiouioiu
 999999977777777777777777777
 kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 -------------------------------
@@ -18,7 +7,7 @@ dlsfkjglf
 
 Earthworm is a free open source waveform and automatic Earthquake processing software package written primarily in the C language.
 CONFLICT----------------dfjglsfdjg
-11111111111111111111111111111111111111111111111
+
 Originally developed by the United States Geological Survey (USGS), Earthworm now has modules contributed by users all over the world.
  
 Earthworm has been an active open source project since 1993. In the last number of years, the USGS has funded continued releases and maintenance by ISTI. University of Memphis and ISTI host the Earthworm documentation and distribution.
