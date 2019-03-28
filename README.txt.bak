@@ -1,13 +1,13 @@
 OVERVIEW
 
-33333333334444
+333333333344444444444444
 -------------------------------
 fjdgfdjsfgd
 dlsfkjglf
 
 Earthworm is a free open source waveform and automatic Earthquake processing software package written primarily in the C language.
 CONFLICT----------------
-555555555555555555
+5555555555555555555555555555555555555
 
 Originally developed by the United States Geological Survey (USGS), Earthworm now has modules contributed by users all over the world.
  
